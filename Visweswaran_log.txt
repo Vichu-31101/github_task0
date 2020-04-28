@@ -1,0 +1,9 @@
+Commands
+
+git clone [URL] - To fetch the gitHub repo from the URL and clone it in the local directory.
+git checkout -b [name] - To create a branch named "name" and switch into it.
+git add [file_name] - To add a file with the specified "file_name".
+git commit -m[message] - To finalize the changes made in the branch and update the local repository with message.
+git merge [name] - To merge the branch named "name" to the current branch (receiving branch).
+git pull - To pull the most recent changes from the repo.
+git push origin [name] - To pushes all the changes made in branch name to github
